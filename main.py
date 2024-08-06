@@ -6,7 +6,8 @@ import tkinter.messagebox as msg
 from assets.psscode import run
 from assets.hasher import check
 import book
-
+from assets.install_r import install
+install()
 
 # API USAGE : basically forms a code in localhost:5000/generate 
 

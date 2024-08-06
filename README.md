@@ -65,7 +65,11 @@ A Password Key Saver , That saves Passes/Keys After Encrypting It.
         ```bash
         pip install -r requirements.txt
         ```
+> [!NOTE]
+> Opening this First time May Take Time As It will Install Requirments (If you didn't)
 
+> [!IMPORTANT]
+> Default Password : 1
 
 ## CONTRIBUTING
 - **You are Allowed to make chages**
