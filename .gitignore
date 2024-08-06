@@ -1,2 +1,1 @@
-git_png/*.png
-git_png/*.gif
+**/git_png/
