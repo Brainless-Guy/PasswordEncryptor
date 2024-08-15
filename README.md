@@ -54,14 +54,14 @@ A Password Key Saver , That saves Passes/Keys After Encrypting It.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/
+    git clone [(https://github.com/Brainless-Guy/PasswordEncryptor.git](https://github.com/Brainless-Guy/PasswordEncryptor.git)
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd PasswordEncryptor
     ```
 3. Install the dependencies:
-    - For Python :
+    - 
         ```bash
         pip install -r requirements.txt
         ```
@@ -73,7 +73,7 @@ A Password Key Saver , That saves Passes/Keys After Encrypting It.
 
 ## CONTRIBUTING
 - **You are Allowed to make chages**
-> - **Questions? issue**
+ - **Questions? issue**
 
 
 
