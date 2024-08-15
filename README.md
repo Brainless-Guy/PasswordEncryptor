@@ -54,7 +54,7 @@ A Password Key Saver , That saves Passes/Keys After Encrypting It.
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Brainless-Guy/PasswordEncryptor](https://github.com/Brainless-Guy/PasswordEncryptor)
+    git clone https://github.com/Brainless-Guy/PasswordEncryptor.git
     ```
 2. Navigate to the project directory:
     ```bash
