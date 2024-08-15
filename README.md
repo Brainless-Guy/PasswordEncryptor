@@ -61,10 +61,10 @@ A Password Key Saver , That saves Passes/Keys After Encrypting It.
     cd PasswordEncryptor
     ```
 3. Install the dependencies:
-    - 
-        ```bash
-        pip install -r requirements.txt
-        ```
+    
+   ```bash
+    pip install -r requirements.txt
+    ```
 > [!NOTE]
 > Opening this First time May Take Time As It will Install Requirments (If you didn't)
 
